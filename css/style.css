@@ -1,0 +1,21 @@
+body{
+	background: #231f20;
+	font-family: "Courier New";
+	text-align: center;
+}
+h1{
+	color: #dc72cd;
+	margin: 40px 0;
+	font-size: 40px;
+}
+h2 {
+	color:#18a7ca;
+	margin: 40px 0 40px 0;
+	font-size: 20px;
+}
+h4 {
+	color:#f99b24;
+}
+img{
+	width: 300px;
+}
